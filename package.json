@@ -1,0 +1,23 @@
+{
+  "name": "Test",
+  "description": "",
+  "version": "1.0.0",
+  "author": "Asgeir",
+  "dependencies": {
+    "gatsby": "^1.9.45",
+    "gatsby-link": "^1.6.17",
+    "gatsby-source-filesystem": "^1.5.1",
+    "gatsby-transformer-remark": "^1.7.15",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "serve": "gatsby serve",
+    "build": "gatsby build",
+    "develop": "gatsby develop"
+  }
+}
